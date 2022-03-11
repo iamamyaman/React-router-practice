@@ -4,7 +4,7 @@ import Home from "../Pages/Home"
 
 export default function Header(){
     return(
-        <div class ="header">
+        <div className ="header">
             <h1>React Router Tutorial</h1>
             <ul>
                 <Link to="" >

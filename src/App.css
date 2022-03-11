@@ -15,18 +15,19 @@
     width:100%;
     align-items: center;
     justify-content: space-between;
-    background-color: aqua;
-    padding: 10px 20px;
+    background-color: #373a39;
+    color:white;
+    padding: 20px 30px;
     margin-bottom: 20px;
 }
 
 .header ul{
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 20px;
 }
 
 a{
     text-decoration: none;
-    color:black;
+    color:white;
 }
